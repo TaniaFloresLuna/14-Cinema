@@ -1,0 +1,61 @@
+.icono{
+	width: 80%;
+	height: 80%;
+	margin-top: 240%;
+}
+button{
+	background-color: #805500;
+	margin-left:30%; 
+	margin-top: 7%;
+}
+.btn-lg{
+	width: 55%;
+	height: 65px;
+}
+.loop{
+	width: 130px;
+	height: 210px;
+	border-color:  #805500;
+	margin: 5%;
+}
+.tool{
+	width: 75%;
+	height: 80%;
+}
+.video{
+	width: 960px;
+	height: 100%;
+}
+.caja{
+
+	background-color: none;	
+	border: 2px solid green;
+	margin:10px 5px 10px 90px;
+	padding: 5px 5px 5px 5px;
+	border-radius: 10px;
+	display: block;
+	float: left;
+	clear: both;
+}
+
+footer{
+	background-color: #b3b3b3;
+	width: 960px;
+	height: 100%;
+}
+.borde{
+	margin: 3% 1%;
+	color: #e6b800;
+}
+.big{
+	width: 960px;
+	height: 510px;
+}
+#buy{
+	margin-left: 0%;
+	margin-bottom: 5%;
+}
+
+
+
+/*Soy mala poniendo estilos :(*/
